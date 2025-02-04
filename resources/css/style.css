@@ -17,7 +17,6 @@ body{
 }
 
 video{
-	text-align: right;
-	width: 404;
-	height: 720;
+	width: auto;
+	height: auto;
 }
