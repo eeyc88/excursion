@@ -22,6 +22,6 @@ video{
 }
 
 div{
-	width: 100%;
-	margin: auto;
+	width: auto;
+	margin: 300px;
 }
