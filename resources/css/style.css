@@ -17,11 +17,12 @@ body{
 }
 
 video{
-	width: auto;
-	height: auto;
+	width: 404;
+	height: 720;
 }
 
 div{
-	width: auto;
-	margin: 300px;
+	
+	width: 300px;
+	margin: auto;
 }
